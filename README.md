@@ -64,4 +64,4 @@ python main.py
 ## ⚖️ Legal & Attribution
 **This bot is a fan-made, open-source project and is NOT meant to replace the actual Scrandle game.** 
 
-All Scrandle concepts, images, daily matchups, ratings, and data belong entirely to the original creators at [scrandle.com](https://scrandle.com) and the [@FootyScran](https://twitter.com/FootyScran) community. Please review the [LEGAL.md](LEGAL.md) file for the full Terms of Service and Privacy Policy regarding data usage within Discord. Go support the official creators!
+All Scrandle concepts, images, daily matchups, ratings, and data belong entirely to the original creators at [scrandle.com](https://scrandle.com) and the [@FootyScran](https://twitter.com/FootyScran) community. Please review the [Legal.md](Legal.md) file for the full Terms of Service and Privacy Policy regarding data usage within Discord. Go support the official creators!
