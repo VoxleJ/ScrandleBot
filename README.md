@@ -25,7 +25,7 @@ This bot handles the data fetching, interactive voting, and competitive scoring 
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/VoxleJ/ScrandleBot.git](https://github.com/VoxleJ/ScrandleBot.git)
+git clone https://github.com/VoxleJ/ScrandleBot.git
 cd ScrandleBot
 ```
 
